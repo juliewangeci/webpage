@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery - Sugar & Grain Bakery</title>
+</head>
+<body>
+
+    <a href="index.html">Go back to Home</a>
+
+    <h1>Our Gallery</h1>
+
+    <h2>Our Fresh Cakes</h2>
+
+<img src="image/cake.jpeg" alt="Cake" width="300">
+
+</body>
+</html>
